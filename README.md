@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adrian, a 4th-semester Informatics Engineering student at Hasanuddin University.</h1>
+<h1 align="center">Hi 👋, I'm Adrian, an ordinary Informatics Engineering student at Hasanuddin University..</h1>
 <h3 align="center">Passionate about Web Development and Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianbahri&label=Profile%20views&color=0e75b6&style=flat" alt="adrianbahri" /> </p>
